@@ -1,0 +1,1 @@
+export {default as POKEMON_MOCK} from './pokemon.data'

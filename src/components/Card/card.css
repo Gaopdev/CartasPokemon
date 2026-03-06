@@ -1,0 +1,29 @@
+
+.card{
+    margin: 10px;
+    background-color: black;
+    color: white;
+    width: 150px;
+}
+.card-evo{
+    border: 2px solid orangered;
+    box-shadow: 4px 21px 28px 7px rgba(252,0,218,0.75);
+-webkit-box-shadow: 4px 21px 28px 7px rgba(252,0,218,0.75);
+-moz-box-shadow: 4px 21px 28px 7px rgba(252,0,218,0.75);
+}
+.card-normal{
+    border: 2px dashed blue;
+}
+
+div img{
+    width: 150px;
+    height: 150px;
+}
+div span{
+    background-color: yellowgreen;
+    padding: 0.5rem;
+    border-radius: 45%;
+}
+div span:hover{
+    cursor: pointer;
+}

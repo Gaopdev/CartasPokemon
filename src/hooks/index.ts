@@ -1,0 +1,1 @@
+export { default as usePokemons } from './usePokemon' //Exportamos el hook usePokemons
