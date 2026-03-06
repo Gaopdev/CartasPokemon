@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Gaopdev.github.io/CartasPokemon/",
+  "home": "https://Gaopdev.github.io/CartasPokemon/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
